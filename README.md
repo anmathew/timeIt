@@ -19,7 +19,7 @@ $ ./measure.sh
 While this works well for bash, it is a <a href="https://stackoverflow.com/questions/673523/how-do-i-measure-execution-time-of-a-command-on-the-windows-command-line">bit more</a> difficult when it comes to measuring execution time in other environments / operating systems.
 
 # How does timeIt work?
-
+Consider this example:
 ```bash
 $ ls
 timeIt-linux-amd64
